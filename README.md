@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshaymattoo
 - 👀 I’m interested in javascript related stuff. 
-- 🌱 I’m currently learning Typescript, Monorepo Nx type stuff
+- 🌱 I’m currently tring 12 * 12. Updates soon.
 - 💞️ I’m looking to collaborate on any cool idea.
 - 📫 Reach me at akshaymattoo.com
 
