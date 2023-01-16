@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshaymattoo
-- 👀 I’m interested in javascript related stuff. 
+- 👀 I’m always interested in building stuff. 
 - 🌱 I’m currently building 12 * 12.
    - First statup launched : [karyaa.app](karyaa.app)
 - 💞️ I’m looking to collaborate on any cool idea.
